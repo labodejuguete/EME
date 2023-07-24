@@ -1,0 +1,84 @@
+*Pick And Place List
+*Company=
+*Author=
+*eMail=
+*
+*Project=EME
+*Date=15:24:49
+*CreatedBy=Fritzing 0.9.4.2019-12-01.CD-498-0-a1ffcea
+*
+*
+*Coordinates in mm, always center of component
+*Origin 0/0=Lower left corner of PCB
+*Rotation in degree (0-360, math. pos.)
+*
+*No;Value;Package;X;Y;Rotation;Side;Name
+1;;;44.3298;-47.3907;0;Bottom;LCD1
+2;;5 mm [THT];107.576;-22.5079;180;Bottom;LED1
+3;;[THT];118.716;-11.4867;-90;Bottom;S8
+4;;THT;102.94;-68.8156;90;Bottom;J1
+5;220;THT;127.579;-45.5222;90;Bottom;R9
+6;;;6.70131;-31.7453;0;Bottom;Hole43
+7;220;THT;106.306;-45.5222;90;Bottom;R11
+8;;[THT];79.9258;-15.3582;90;Bottom;?
+9;;4Ucon 08780 [THT];150.563;-47.9539;180;Bottom;SYNC IN
+10;;[THT];107.921;-11.4867;-90;Bottom;S10
+11;;3 mm [THT];103.13;-46.776;180;Bottom;LED8
+12;;;134.728;-61.4457;0;Bottom;TXT3
+13;;3 mm [THT];124.086;-46.776;180;Bottom;LED6
+14;;;152.662;-2.52168;0;Bottom;Hole38
+15;;THT;119.006;-54.9766;-90;Bottom;ULN2803
+16;;;134.626;-54.3651;0;Bottom;TXT3
+17;;;113.404;-61.4186;0;Bottom;TXT2
+18;;THT;32.8918;-10.3849;-90;Bottom;TEMPO
+19;220;THT;146.029;-21.2541;90;Bottom;R7
+20;;;124.679;-61.2433;0;Bottom;TXT2
+21;;;134.814;-61.2603;0;Bottom;TXT2
+22;;;49.833;-46.9716;0;Bottom;Part2
+23;220;THT;137.739;-45.5222;90;Bottom;R8
+24;;THT;135.255;-68.8156;90;Bottom;J2
+25;;[THT];129.511;-11.4867;-90;Bottom;S13
+26;;3 mm [THT];134.246;-46.776;180;Bottom;LED5
+27;;5 mm [THT];129.166;-22.5079;180;Bottom;LED3
+28;;;6.67168;-63.0764;0;Bottom;Hole44
+29;;5 mm [THT];140.313;-22.5079;180;Bottom;LED4
+30;;;14.2307;-71.1017;0;Bottom;Hole40
+31;;;132.048;-35.1232;0;Bottom;IMG1
+32;220;THT;117.101;-45.5222;90;Bottom;R10
+33;;THT;124.848;-68.8156;90;Bottom;J3
+34;;;143.464;-71.2428;0;Bottom;Hole35
+35;;5 mm [THT];118.371;-22.5079;180;Bottom;LED2
+36;;[THT];140.658;-11.4867;-90;Bottom;S14
+37;;;103.166;-61.2995;0;Bottom;TXT2
+38;100;THT;47.8858;-56.4966;90;Bottom;R2
+39;;;89.1607;-71.1017;0;Bottom;Hole39
+40;;300 mil [THT];147.156;-57.8559;0;Bottom;D1
+41;;;124.878;-61.4451;0;Bottom;TXT3
+42;;;129.807;-4.53364;0;Bottom;TXT2
+43;;THT;113.359;-68.8156;90;Bottom;J4
+44;;;113.793;-35.1552;0;Bottom;IMG2
+45;;tactile-pth-12mm;11.9517;-10.5472;-90;Bottom;A
+46;;;140.866;-4.55037;0;Bottom;TXT2
+47;;;150.004;-66.9496;90;Bottom;Power plug1
+48;;3 mm [THT];113.925;-46.776;180;Bottom;LED7
+49;;;134.595;-57.1085;0;Bottom;TXT1
+50;;4Ucon 08780 [THT];150.563;-33.3489;180;Bottom;SYNC OUT
+51;;;81.9762;-31.7453;0;Bottom;Hole42
+52;;trim_pot_pth;6.78716;-69.2672;180;Bottom;VOL1
+53;;;2.19337;-2.52168;0;Bottom;Hole37
+54;;[THT];79.9258;-4.98656;90;Bottom;?
+55;;;113.487;-61.4457;0;Bottom;TXT3
+56;;;103.176;-54.2147;0;Bottom;TXT3
+57;;tactile-pth-12mm;52.2909;-10.8766;-90;Bottom;B
+58;;;82.0707;-63.1413;0;Bottom;Hole41
+59;;;13.2782;-22.8416;0;Bottom;Hole36
+60;;;103.066;-61.3534;0;Bottom;TXT3
+61;;[THT];89.9918;-10.3488;90;Bottom;?
+62;220;THT;134.881;-21.2541;90;Bottom;R6
+63;;[THT];70.4556;-10.2167;-90;Bottom;?
+64;220;THT;124.086;-21.2541;90;Bottom;R5
+65;;;103.169;-57.3248;0;Bottom;TXT1
+66;;;108.191;-4.38411;0;Bottom;TXT2
+67;;300 mil [THT];140.682;-57.6104;90;Bottom;D69
+68;220;THT;112.656;-21.2541;90;Bottom;R4
+69;;;119.25;-4.40088;0;Bottom;TXT2
