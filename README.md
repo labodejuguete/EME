@@ -12,8 +12,11 @@ EMƎ es un secuenciador basado en Arduino Mega para la creación audiovisual. Pe
 + Sincronización (IN y OUT) compatible con Volca, Beatstep, Pocket Operator, etc.
 
 Idea y concepto: Laboratorio de Juguete
+
 Diseño de software: [Lucas Leal](https://www.instagram.com/lucas.__.leal/?hl=en)
+
 Diseño de hardware: Jorge Crowe
+
 
 El diseño y desarrollo de EMƎ fue posible gracias a MECENAZGO
  ![alt tag](https://github.com/labodejuguete/EME/blob/main/mecenazgo.png)
