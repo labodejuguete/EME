@@ -1,0 +1,14 @@
+# EMƎ
+# Secuenciador de luz y movimiento
+ ![alt tag](https://github.com/labodejuguete/EME/blob/img/eme.jpg)
+
+EMƎ es un secuenciador de luz y movimiento basado en el Arduino Mega. Consta de cuatro partes transistorizadas que permiten activar LEDs y pequeños motores DC para la creación audiovisual
+# Características
+4 partes independientes
+16 pasos por parte (con cantidad ajustable individualmente)
+Control de tiempo de Gate por parte 
+Subdivisor de tempo individual por parte (polirritmia)
+4 direcciones de avance del secuenciador (por parte): adelante, atrás, adelante+atrás ("ping pong"), random.
+Sync IN y Sync OUT (gate 5V): compatible con volca, beatstep Pro, Pocket Operator, Sintetizadores modulares, etc.
+
+
